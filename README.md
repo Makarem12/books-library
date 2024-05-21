@@ -8,4 +8,4 @@
 
 2. Encapsulation: The Library class encapsulates the functionality related to managing books and members. It provides methods (add_book, remove_book, add_member, remove_member, list_books, list_members) for interacting with its internal state (books and members), abstracting away the implementation details from the user of the class.
 
-3. Abstraction: The Library class abstracts the concept of a library, providing a high-level interface for interacting with its resources (books and members). Users of the class do not need to know the internal details of how books and members are stored or managed; they can simply use the provided methods to perform operations on them.
+3. Abstraction: The Library class abstracts the concept of a library, providing a high-level interface for interacting with its resources (books and members). Users of the class do not need to know the internal details of how books and members are stored or managed; they can simply use the provided methods to perform operations on them..
